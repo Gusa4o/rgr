@@ -1,0 +1,14 @@
+C:\Users\alax2\Desktop\Новая папка (2)\bin\Debug\net8.0\Новая папка (2).exe
+C:\Users\alax2\Desktop\Новая папка (2)\bin\Debug\net8.0\Новая папка (2).deps.json
+C:\Users\alax2\Desktop\Новая папка (2)\bin\Debug\net8.0\Новая папка (2).runtimeconfig.json
+C:\Users\alax2\Desktop\Новая папка (2)\bin\Debug\net8.0\Новая папка (2).dll
+C:\Users\alax2\Desktop\Новая папка (2)\bin\Debug\net8.0\Новая папка (2).pdb
+C:\Users\alax2\Desktop\Новая папка (2)\obj\Debug\net8.0\Новая папка (2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alax2\Desktop\Новая папка (2)\obj\Debug\net8.0\Новая папка (2).AssemblyInfoInputs.cache
+C:\Users\alax2\Desktop\Новая папка (2)\obj\Debug\net8.0\Новая папка (2).AssemblyInfo.cs
+C:\Users\alax2\Desktop\Новая папка (2)\obj\Debug\net8.0\Новая папка (2).csproj.CoreCompileInputs.cache
+C:\Users\alax2\Desktop\Новая папка (2)\obj\Debug\net8.0\Новая папка (2).dll
+C:\Users\alax2\Desktop\Новая папка (2)\obj\Debug\net8.0\refint\Новая папка (2).dll
+C:\Users\alax2\Desktop\Новая папка (2)\obj\Debug\net8.0\Новая папка (2).pdb
+C:\Users\alax2\Desktop\Новая папка (2)\obj\Debug\net8.0\Новая папка (2).genruntimeconfig.cache
+C:\Users\alax2\Desktop\Новая папка (2)\obj\Debug\net8.0\ref\Новая папка (2).dll
